@@ -7,10 +7,10 @@ To set up the development environment for this sample app:
 
 1. Install [Vagrant](https://www.vagrantup.com/)
 2. Install [VirtualBox](https://www.virtualbox.org/)
-- On Mac, make sure that you allow the appropriate permissions during installation
+On Mac, make sure that you allow the appropriate permissions during installation
 3. Install [Git](https://git-scm.com/downloads). On Mac, this will mean installing XCode.
 4. Clone the repo `git clone https://github.com/nadvolod/sample-app-web`
-5. Run the `setup-env.sh` script in the root of the repository
+5. Run the `setup-env.sh` script in the root of the repository. `./setup-env.sh`
 5. There is no step 4, you're done!
 
 ## Direct development environment setup
